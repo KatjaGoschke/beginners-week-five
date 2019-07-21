@@ -5,3 +5,8 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+.btn-primary {
+  background-color: yellow;
+  color: blue;
+  font-weight: bold;
+}
